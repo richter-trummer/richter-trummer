@@ -1,0 +1,38 @@
+
+a, a:hover, a:active, a:focus, span {
+    color:  #404040;
+    text-decoration: none;
+}
+
+.container {
+    align-content:center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 20pt;
+    height: 100%;
+    justify-content:center;
+    position: absolute;
+    width: 100%;
+}
+.container > * {
+  max-width: 800px;
+  width: 70%;
+}
+.detailsInnerWrapper{
+  padding-right: 5%
+}
+
+.details {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+
+}
+
+.details p {
+    display: inline-block;
+    margin-bottom: 0;
+}
