@@ -10,14 +10,14 @@ a, a:hover, a:active, a:focus, span {
     display: flex;
     flex-direction: column;
     font-family: 'IBM Plex Sans', sans-serif;
-    font-size: 20pt;
+    font-size: 16pt;
     height: 100%;
     justify-content:center;
     position: absolute;
     width: 100%;
 }
 .container > * {
-  max-width: 800px;
+  max-width: 600px;
   width: 70%;
 }
 .detailsInnerWrapper{
