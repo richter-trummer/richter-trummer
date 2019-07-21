@@ -34,5 +34,5 @@ a, a:hover, a:active, a:focus, span {
 
 .details p {
     display: inline-block;
-    margin-bottom: 0;
+    margin: 10px 0 0;
 }
