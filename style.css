@@ -4,6 +4,8 @@ a, a:hover, a:active, a:focus, span {
     text-decoration: none;
 }
 
+img {margin-bottom:10px;}
+
 .container {
     align-content:center;
     align-items: center;
